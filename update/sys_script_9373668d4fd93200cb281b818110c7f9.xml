@@ -72,5 +72,4 @@
         <template/>
         <when>before</when>
     </sys_script>
-    <sys_translated_text action="delete_multiple" query="documentkey=9373668d4fd93200cb281b818110c7f9"/>
 </record_update>
